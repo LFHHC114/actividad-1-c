@@ -1,0 +1,14 @@
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_operadores\bin\Debug\net10.0\reto_tipos_de_operadores.exe
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_operadores\bin\Debug\net10.0\reto_tipos_de_operadores.deps.json
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_operadores\bin\Debug\net10.0\reto_tipos_de_operadores.runtimeconfig.json
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_operadores\bin\Debug\net10.0\reto_tipos_de_operadores.dll
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_operadores\bin\Debug\net10.0\reto_tipos_de_operadores.pdb
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_operadores\obj\Debug\net10.0\reto_tipos_de_operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_operadores\obj\Debug\net10.0\reto_tipos_de_operadores.AssemblyInfoInputs.cache
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_operadores\obj\Debug\net10.0\reto_tipos_de_operadores.AssemblyInfo.cs
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_operadores\obj\Debug\net10.0\reto_tipos_de_operadores.csproj.CoreCompileInputs.cache
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_operadores\obj\Debug\net10.0\reto_tipos_de_operadores.dll
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_operadores\obj\Debug\net10.0\refint\reto_tipos_de_operadores.dll
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_operadores\obj\Debug\net10.0\reto_tipos_de_operadores.pdb
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_operadores\obj\Debug\net10.0\reto_tipos_de_operadores.genruntimeconfig.cache
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_operadores\obj\Debug\net10.0\ref\reto_tipos_de_operadores.dll

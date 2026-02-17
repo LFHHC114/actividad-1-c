@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reto_tipos_de_datos", "reto_tipos_de_datos\reto_tipos_de_datos.csproj", "{0922E254-5CE5-57B5-BD01-DD4191774409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reto_tipos_de_operadores", "reto_tipos_de_operadores\reto_tipos_de_operadores.csproj", "{9B383481-C465-C9C7-CF18-B94639EA60A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0922E254-5CE5-57B5-BD01-DD4191774409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0922E254-5CE5-57B5-BD01-DD4191774409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0922E254-5CE5-57B5-BD01-DD4191774409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0922E254-5CE5-57B5-BD01-DD4191774409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B383481-C465-C9C7-CF18-B94639EA60A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B383481-C465-C9C7-CF18-B94639EA60A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B383481-C465-C9C7-CF18-B94639EA60A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B383481-C465-C9C7-CF18-B94639EA60A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAABAD22-C2EC-4CF4-B89A-E1715F74864C}
+	EndGlobalSection
+EndGlobal

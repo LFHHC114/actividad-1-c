@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "reto_tipos_de_datos/1.0.0": {
+        "runtime": {
+          "reto_tipos_de_datos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "reto_tipos_de_datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

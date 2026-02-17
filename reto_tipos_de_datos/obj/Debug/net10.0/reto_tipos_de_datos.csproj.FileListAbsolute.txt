@@ -1,0 +1,14 @@
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_datos\bin\Debug\net10.0\reto_tipos_de_datos.exe
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_datos\bin\Debug\net10.0\reto_tipos_de_datos.deps.json
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_datos\bin\Debug\net10.0\reto_tipos_de_datos.runtimeconfig.json
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_datos\bin\Debug\net10.0\reto_tipos_de_datos.dll
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_datos\bin\Debug\net10.0\reto_tipos_de_datos.pdb
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_datos\obj\Debug\net10.0\reto_tipos_de_datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_datos\obj\Debug\net10.0\reto_tipos_de_datos.AssemblyInfoInputs.cache
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_datos\obj\Debug\net10.0\reto_tipos_de_datos.AssemblyInfo.cs
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_datos\obj\Debug\net10.0\reto_tipos_de_datos.csproj.CoreCompileInputs.cache
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_datos\obj\Debug\net10.0\reto_tipos_de_datos.dll
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_datos\obj\Debug\net10.0\refint\reto_tipos_de_datos.dll
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_datos\obj\Debug\net10.0\reto_tipos_de_datos.pdb
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_datos\obj\Debug\net10.0\reto_tipos_de_datos.genruntimeconfig.cache
+C:\Users\hurta\OneDrive\Escritorio\proyecto\reto_tipos_de_datos\obj\Debug\net10.0\ref\reto_tipos_de_datos.dll
